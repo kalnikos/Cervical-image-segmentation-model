@@ -1,1 +1,1 @@
-# Cervical-image-segmentation-model
+## Identifying cervical dysplasia using deep learning method, (CNN model)
